@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Streamlit**
 
-- 👨‍💻 All of my projects are available at [Click Here](https://www.leviathanaxeislit.me/)
+- 👨‍💻 All of my projects are available at [Click Here](https://leviathanaxeislit.vercel.app/)
 
 - 💬 Ask me about **Anything abt tech**
 
